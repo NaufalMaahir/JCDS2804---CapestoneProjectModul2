@@ -13,31 +13,6 @@ Proyek ini merupakan bagian dari analisis data pelanggan supermarket menggunakan
 
 ---
 
-## Struktur File
-Berikut adalah struktur direktori proyek ini:
-Supermarket-Customer-Analysis/
-│
-├── data/
-│   ├── Supermarket_Customers.csv              # Dataset awal
-│   ├── Supermarket_Customers_Cleaned.csv      # Dataset setelah pembersihan awal
-│   └── Supermarket_Customers_No_Outliers.csv  # Dataset setelah penanganan outlier
-│
-├── notebooks/
-│   ├── Final_Analysis.ipynb                   # Notebook utama untuk analisis dan visualisasi
-│   └── Trial_1.ipynb                          # Notebook percobaan
-│
-├── visualizations/
-│   ├── Recency_High_Risk_Churn.png            # Histogram Recency untuk pelanggan high-risk churn
-│   ├── Income_by_Segment.png                  # Bar plot Income berdasarkan Income Segment
-│   ├── Total_Spending_by_Segment.png          # Bar plot Total Spending berdasarkan Spending Segment
-│   ├── Income_Before_After_Outlier.png        # Histogram Income sebelum dan setelah penanganan outlier
-│   └── Tableau_Dashboard.twbx                 # File Tableau untuk dashboard interaktif
-│
-└── README.md                                  # File ini
-
-
----
-
 ## Langkah-Langkah Analisis
 1. **Pembersihan Data**:
    - Dataset awal (`Supermarket_Customers.csv`) dibersihkan untuk menangani nilai yang hilang dan outlier.
