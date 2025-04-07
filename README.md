@@ -82,3 +82,5 @@ Supermarket-Customer-Analysis/
 
 4. **Distribusi Income**:
    - Setelah penanganan outlier, distribusi `Income` menjadi lebih normal dengan rentang 0 hingga 100,000 dan puncak di sekitar 40,000-60,000.
+  
+Dashboard : (https://public.tableau.com/app/profile/naufal.maahir/viz/JCDS2804016_CapestoneProject2_Naufal/Dashboard1?publish=yes)
